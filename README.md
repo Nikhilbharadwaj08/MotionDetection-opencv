@@ -2,6 +2,6 @@
 requirements:
 
           Python 3+
-          pandas
-          opencv2
-          bokeh 
+          pandas  (pip install pandas)
+          opencv2 (pip install opencv-python)
+          bokeh   (pip install bokeh)
